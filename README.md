@@ -18,8 +18,13 @@ IMPORTANT: Current version of SpykeTorch does not support negative synaptic weig
 
 # The hierarchical two-module neurocomputational model for simulating object recognition:
 <img width="2044" height="1150" alt="proposed_model_fig" src="https://github.com/user-attachments/assets/d32ba45d-64a8-4384-8dd6-642a35fc7d65" />
-
 Link of some useful papers:
 https://www.sciencedirect.com/science/article/abs/pii/S0893608017302903
 https://www.sciencedirect.com/science/article/abs/pii/S0893608024002429
 https://www.frontiersin.org/articles/10.3389/fnins.2019.00625/full
+
+# ETH80 animal objects:
+<img width="1806" height="628" alt="eth_animal_sample" src="https://github.com/user-attachments/assets/a9f18206-89b3-49ed-a475-7ee833b4aa9c" />
+dataset:
+https://github.com/chenchkx/ETH-80.git
+
