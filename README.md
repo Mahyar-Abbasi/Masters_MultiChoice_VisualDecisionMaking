@@ -14,7 +14,7 @@ pip install git+https://github.com/miladmozafari/SpykeTorch.git
 
 IMPORTANT: Current version of SpykeTorch does not support negative synaptic weights.
 
-# The hierarchical two-module neurocomputational model:
+# The hierarchical two-module neurocomputational model for simulating object recognition:
 <img width="2044" height="1150" alt="proposed_model_fig" src="https://github.com/user-attachments/assets/d32ba45d-64a8-4384-8dd6-642a35fc7d65" />
 
 Link of some useful papers:
