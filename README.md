@@ -3,7 +3,9 @@
 At the Cognitive Science Lab led by Prof. Reza Ebrahimpour (my M.S. co-supervisor), I collaborate with a multidisciplinary team of computer science and cognitive science students to optimize and extend a pre-existing spiking convolutional neural network (SCNN). Our goal is to enhance this biologically inspired model for simulating multi-class decision-making processes, specifically aiming to mimic how the human brain categorizes natural objects through the ventral visual pathway—a key route in visual recognition.
 This research bridges computational neuroscience and human cognition by developing a model that aligns closely with behavioral data obtained from psychophysical experiments. These experiments involve human participants performing multi-class visual forced-choice tasks while their eye movements are tracked. These experiments were fully designed and conducted by our research team in the lab. By varying the visual noise in natural image stimuli, we study the effects of sensory uncertainty on decision-making behavior.
 The SCNN is designed to account for three key behavioral signatures: the distribution of reaction times, categorization accuracy (as reflected in psychometric functions), and confidence estimations derived from task difficulty. By integrating these components, our model aims to provide a mechanistic explanation of how the human brain processes complex visual stimuli under uncertainty.
-For a quick overview of the model please check the local_linear_filter_snn_model.ipynb notebook.
+
+**👉 Start here:** [main_local_linear_filter_snn_model.ipynb](./main_local_linear_filter_snn_model.ipynb)
+
 
 The main required package for running these codes is SpykeTorch:
 # Clone the repository
